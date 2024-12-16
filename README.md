@@ -27,7 +27,7 @@ go build -o main.exe src/day_01.go src/common.go
 - [x] day 9
 - [x] day 10
 - [x] day 11
-- [ ] day 12
+- [x] day 12
 - [ ] day 13
 - [ ] day 14
 - [ ] day 15
